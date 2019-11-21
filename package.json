@@ -1,0 +1,19 @@
+{
+  "name": "ndapi",
+  "version": "1.0.0",
+  "description": "Api para proyecto III Parcial seminario de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSorto/NDApi.git"
+  },
+  "author": "Marcos Elí Sorto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosSorto/NDApi/issues"
+  },
+  "homepage": "https://github.com/MarcosSorto/NDApi#readme"
+}
